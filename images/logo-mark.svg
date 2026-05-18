@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 65" role="img" aria-label="vzw Werken Glorieux beeldmerk">
+  <!-- Comma (warm grey, peeks below the circle) -->
+  <path d="M 30 24 C 36 26, 40 33, 37 42 C 34 51, 27 58, 19 62 C 24 53, 27 43, 27 35 C 27 28, 28 24, 30 24 Z" fill="#898675"/>
+  <!-- Lime circle -->
+  <circle cx="25" cy="25" r="23" fill="#cbd100"/>
+</svg>
